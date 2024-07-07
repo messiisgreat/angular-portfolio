@@ -3,7 +3,7 @@
 	"version": 1,
 	"newProjectRoot": "projects",
 	"projects": {
-		"JayantGoel001": {
+		"austingericke": {
 			"projectType": "application",
 			"schematics": {
 				"@schematics/angular:application": {
@@ -91,10 +91,10 @@
 					"builder": "@angular-devkit/build-angular:dev-server",
 					"configurations": {
 						"production": {
-							"browserTarget": "JayantGoel001:build:production"
+							"browserTarget": "austingericke:build:production"
 						},
 						"development": {
-							"browserTarget": "JayantGoel001:build:development"
+							"browserTarget": "austingericke:build:development"
 						}
 					},
 					"defaultConfiguration": "development"
@@ -102,7 +102,7 @@
 				"extract-i18n": {
 					"builder": "@angular-devkit/build-angular:extract-i18n",
 					"options": {
-						"browserTarget": "JayantGoel001:build"
+						"browserTarget": "austingericke:build"
 					}
 				},
 				"test": {

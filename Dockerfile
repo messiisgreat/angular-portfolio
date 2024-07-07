@@ -17,7 +17,7 @@ FROM nginx:alpine
 
 COPY --from=build /app/build /usr/share/nginx/html
 
-LABEL org.opencontainers.image.source https://github.com/messiisgreat/JayantGoel001.github.io
+LABEL org.opencontainers.image.source https://github.com/messiisgreat/austingericke.github.io
 LABEL org.opencontainers.image.description Docker Image of my Personal Portfolio.
 
 EXPOSE 80
