@@ -14,7 +14,7 @@
                 [attr.data-wow-delay]="[project['delay']]"><ng-template #title><strong> <em>Click To See.</em> </strong></ng-template><a class="item-box m-2"
                     [placement]="[project['placement']]" [ngbTooltip]="title" rel="noreferrer"
                     aria-label="project(opens in a new tab)"
-                    href="https://github.com/messiisgreat/{{project['project']}}" target="_blank"><img
+                    href="{{project['link']}}" target="_blank"><img
                         class="item-container img-fluid mx-auto"
                         src="assets/images/portfolio/{{project['project']}}.webp"
                         alt="{{project['project'].replaceAll('-',' ')}}"

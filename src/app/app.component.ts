@@ -29,7 +29,7 @@ export class AppComponent implements AfterViewInit,OnInit {
 		document.head.appendChild(link);
 
 		console.log(`%c${this.title}`, "color:#F56540; font-size:27px");
-		console.log("%chttps://github.com/messiisgreat/JayantGoel001.github.io", "font-size:17px");
+		console.log("%chttps://github.com/messiisgreat/io", "font-size:17px");
 	}
 
 	ngAfterViewInit() : void {
