@@ -1,22 +1,22 @@
 {
-  "name": "jayantgoel001.github.io",
+  "name": "austingericke.github.io",
   "version": "2.0.0",
-  "description": "Austin Gericke (JayantGoel001)'s Personal Portfolio",
+  "description": "Austin Gericke (austingericke)'s Personal Portfolio",
   "main": "index.js",
   "author": "Austin Gericke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/messiisgreat/JayantGoel001.github.io/issues"
+    "url": "https://github.com/messiisgreat/austingericke.github.io/issues"
   },
   "keywords": [
     "Jayant",
     "Austin Gericke",
     "Austin Gericke Portfolio",
-    "JayantGoel001",
-    "Austin Gericke (JayantGoel001)'s Personal Portfolio"
+    "austingericke",
+    "Austin Gericke (austingericke)'s Personal Portfolio"
   ],
-  "repository": "https://github.com/messiisgreat/JayantGoel001.github.io",
-  "homepage": "https://JayantGoel001.github.io",
+  "repository": "https://github.com/messiisgreat/austingericke.github.io",
+  "homepage": "https://austingericke.github.io",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
