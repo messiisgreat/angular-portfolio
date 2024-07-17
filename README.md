@@ -47,12 +47,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://austingericke.github.io/">
-    <img src="src/screenshots/screenshot.gif" alt="landing page"/>
-  </a>
-</p>
-
 
 ## Table of Contents :scroll:
 
